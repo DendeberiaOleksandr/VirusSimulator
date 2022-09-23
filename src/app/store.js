@@ -1,8 +1,9 @@
-import { configureStore } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import {configureStore} from '@reduxjs/toolkit';
+import {simulationsApi} from "./api/simulationsApi";
 
 export const store = configureStore({
-  reducer: {
-    counter: counterReducer,
-  },
+    reducer: {
+        [simulationsApi.reducerPath]: simulationsApi.reducer,
+    },
+    middleware: getDefaultMiddleware => getDefaultMiddleware().concat(simulationsApi.middleware)
 });
