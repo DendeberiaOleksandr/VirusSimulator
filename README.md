@@ -1,4 +1,12 @@
-# Getting Started with Create React App and Redux
+# Virus simulator
+
+![Screenshot_4](https://user-images.githubusercontent.com/57542777/191914643-fe174bee-8156-4e7d-938c-ab1b05591c1e.png)
+![Screenshot_5](https://user-images.githubusercontent.com/57542777/191914661-12230d60-ec32-45a8-8e86-544060e399e8.png)
+![Screenshot_6](https://user-images.githubusercontent.com/57542777/191914700-ebb4465b-65cb-4466-9efb-ee8771aba05c.png)
+![Screenshot_7](https://user-images.githubusercontent.com/57542777/191914685-7f805474-ceb4-4a4a-8fee-fceed5ce70fe.png)
+![Screenshot_8](https://user-images.githubusercontent.com/57542777/191914717-cf5ad3cb-ebc1-4a7e-b792-7c9224600d39.png)
+![Screenshot_9](https://user-images.githubusercontent.com/57542777/191914730-51031261-50bc-4a2e-8a4c-ef435b91359f.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
